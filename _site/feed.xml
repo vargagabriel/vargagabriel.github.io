@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Type Theme</title>
+    <title>Gabriel Andrade Varga</title>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <link>andradevarga.com/</link>
-    <description>A website with blog posts and pages</description>
-    <pubDate>Tue, 06 Feb 2018 23:52:13 -0200</pubDate>
+    <description>Um blog sobre</description>
+    <pubDate>Tue, 06 Feb 2018 23:57:30 -0200</pubDate>
     
       <item>
         <title>Sample post</title>
